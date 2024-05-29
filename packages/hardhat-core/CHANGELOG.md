@@ -1,5 +1,12 @@
 # hardhat
 
+## 2.22.5
+
+### Patch Changes
+
+- f65dc7c: Improved the validation of network and forking URLs (thanks @kshyun28!)
+- 6e36f3f: Bump EDR to v0.3.8. This adds support for blob transactions, improves performance, and fixes some bugs. Check the [EDR release](https://github.com/NomicFoundation/edr/releases/tag/%40nomicfoundation%2Fedr%400.3.8) for more details.
+
 ## 2.22.4
 
 ### Patch Changes

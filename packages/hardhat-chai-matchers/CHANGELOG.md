@@ -1,5 +1,14 @@
 # @nomicfoundation/hardhat-chai-matchers
 
+## 2.0.7
+
+### Patch Changes
+
+- ac55f40: Accept predicate functions in the `changeEtherBalance`, `changeEthersBalances`, `changeTokenBalance` and `changeTokenBalances` matchers (thanks @SevenSwen and @k06a!)
+- Updated dependencies [f65dc7c]
+- Updated dependencies [6e36f3f]
+  - hardhat@2.22.5
+
 ## 2.0.6
 
 ### Patch Changes
